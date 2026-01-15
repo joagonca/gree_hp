@@ -2,6 +2,11 @@
 
 This is a custom Home Assistant integration for Gree Heat Pump devices that use the proprietary UDP protocol.
 
+## Note
+
+This repository is archived, as I no longer have access to a Gree Heat Pump, meaning that I cannot test nor validate any changes.
+If you'd like to give continuity to the repository, feel free to fork :)
+
 ## Installation
 
 1. Copy the `gree_hp` folder to your Home Assistant `custom_components` directory:
